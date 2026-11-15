@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#1E293B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#E84A1B" stroke-opacity="0.12" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <circle cx="1050" cy="120" r="260" fill="none" stroke="#E84A1B" stroke-width="45" stroke-opacity="0.25"/>
+  <rect x="70" y="70" width="280" height="48" rx="24" fill="#059669"/>
+  <text x="100" y="101" fill="#ffffff" font-family="system-ui, sans-serif" font-size="20" font-weight="700">ÜCRETSİZ ÖN TEŞHİS HATTI</text>
+  <text x="70" y="215" fill="#ffffff" font-family="system-ui, sans-serif" font-size="68" font-weight="800">Aliağa Kombi Bakım</text>
+  <text x="70" y="295" fill="#FF784F" font-family="system-ui, sans-serif" font-size="44" font-weight="700">Kuzey İzmir Garantili Teknik Servis</text>
+  <text x="70" y="375" fill="#CBD5E1" font-family="system-ui, sans-serif" font-size="28" font-weight="500">Aliağa • Foça • Yeni Şakran • Bergama • Dikili • Menemen • Kemalpaşa • Kınık</text>
+  <rect x="70" y="445" width="520" height="100" rx="50" fill="#E84A1B"/>
+  <text x="125" y="510" fill="#ffffff" font-family="system-ui, sans-serif" font-size="48" font-weight="800">0542 585 06 75</text>
+</svg>

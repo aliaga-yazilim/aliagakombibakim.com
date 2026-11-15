@@ -1,0 +1,16 @@
+{
+  "name": "Aliağa Kombi Bakım",
+  "short_name": "Aliağa Kombi",
+  "description": "Aliağa ve Kuzey İzmir Garantili Kombi Bakım ve Teknik Servisi",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#0F172A",
+  "icons": [
+    {
+      "src": "/assets/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
